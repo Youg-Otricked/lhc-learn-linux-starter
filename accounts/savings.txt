@@ -1,0 +1,21 @@
+┌──────────────────────────────────────────────────────────┐
+│              SAVINGS ACCOUNTS - CITY BANK                │
+├──────────────────────────────────────────────────────────┤
+│  Person:       Alice                                     │
+│  Account ID:   SV-3301-A                                 │
+│  Balance:      $3,200.00                                 │
+│  Interest Rate: 4.5% APY                                 │
+│  Status:       [ HEALTHY ]                               │
+├──────────────────────────────────────────────────────────┤
+│  Person:       Saul                                      │
+│  Account ID:   SV-7782-S                                 │
+│  Balance:      $9,102.50                                 │
+│  Interest Rate: 9.5% APY                                 │
+│  Status:       [ EXCELLENT ]                             │
+├──────────────────────────────────────────────────────────┤
+│  Person:       Steve                                     │
+│  Account ID:   SV-0001-S                                 │
+│  Balance:      $3.47                                     │
+│  Interest Rate: -0.21% APY                               │
+│  Status:       [ LIFE SUPPORT ]                          │
+└──────────────────────────────────────────────────────────┘
