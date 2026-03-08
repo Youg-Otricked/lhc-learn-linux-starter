@@ -1,0 +1,15 @@
+CITYBANK OFFSHORE HOLDINGS - CONFIDENTIAL
+==========================================
+Account Holder: Saul Betterman (VP of Operations)
+Account ID: CB-OFFSHORE-4491
+
+Transfer History:
+  2024-01-15  +$250,000   "Consulting fees"
+  2024-03-22  +$180,000   "Equipment rental"
+  2024-06-01  +$500,000   "Strategic partnership"
+  2024-08-14  +$320,000   "Misc. expenses"
+
+Total: $1,250,000
+
+Note from Saul: "If anyone asks, this account doesn't exist.
+Delete this file if IT ever gets access. -S.B."
