@@ -1,0 +1,8 @@
+[ADMIN] Welcome to WorldBanc internal chat
+[Steve] Hey has anyone seen the new server password?
+[Alice] Yeah it's in the shared doc
+[Steve] Can you just paste it here?
+[Alice] Sure: xK9#mQ2$vL5
+[Steve] Thanks!
+[ADMIN] REMINDER: Do not share passwords in chat
+[Alice] Oops
